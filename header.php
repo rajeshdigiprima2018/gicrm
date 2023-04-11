@@ -22,7 +22,7 @@
 
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-		      <ul class="nav navbar-nav">
+		      <ul class="nav navbar-nav" style="float: right;">
 		        <li class="<?php active('index.php');?>"><a class="navbar-brand <?php active('index.php');?>" href="index.php">MID STREAM <span class="sr-only">(current)</span></a></li>
 		        <li class="<?php active('storagetank.php');?>"><a class="navbar-brand <?php active('storagetank.php');?>" href="storagetank.php">STORAGE TANK</a></li>
 		        <li class="<?php active('water.php');?>"><a class="navbar-brand <?php active('water.php');?>" href="water.php">WATER TANK</a></li>
